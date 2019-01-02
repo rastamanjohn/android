@@ -11,6 +11,9 @@
            fetch="https://github.com/omnirom"
            review="gerrit.omnirom.org" />
 
+  <remote  name="mtresk-gitlab"
+           fetch="https://gitlab.com/mTresk" />
+
   <remote  name="me"
            fetch="https://github.com/rastamanjohn" />
 
